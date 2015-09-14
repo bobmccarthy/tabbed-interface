@@ -1,0 +1,16 @@
+.tabs {
+  text-align: center;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 6em;
+  border: 2px solid #7B7C7B;
+  margin-right: -6px;
+  margin-bottom: -2px; }
+
+.bigBox {
+  border: 2px solid grey;
+  height: 10em;
+  padding: 2em 2em; }
+
+span {
+  font-size: 3em; }
